@@ -46,7 +46,7 @@ A 3rd-year student pursuing Bachelors in Computer Engineering from CHARUSAT Univ
 <hr>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/flamingloon/flamingloon/152d85cde861ec3d1e755e729adc258e9934d772/github-contribution-grid-snake.svg?token=AQP436BEM6OUBWWMPNJOYCDB52LYM" alt="snake"></center>
+  <img src="https://raw.githubusercontent.com/Flamingloon/flamingloon/f0cfbee1caae3850079cf255e510537fb81f0a98/github-contribution-grid-snake.svg?token=ATKPANFAC55DGPP2EWVRPALCA55KQ" alt="snake"></center>
 </p>
 
 <h3>Daylily Random comic strip!</h3>
