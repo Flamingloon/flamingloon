@@ -20,7 +20,7 @@ A 3rd-year student pursuing Bachelors in Computer Engineering from CHARUSAT Univ
 <p>
 <a align= "center" href="https://github.com/falmingloon">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=flamingloon&theme=radical">
-<img style="margin-top:40px" align="right" height="350" width="450" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /> </a>
+<img style="margin-top:40px" align="right" height="350" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=flamingloon&count_private=true&theme=radical&show_icons=true" />
 <!-- <img align='right' height="300px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flamingloon" /> -->
