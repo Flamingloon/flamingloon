@@ -18,8 +18,8 @@ A 3rd-year student pursuing Bachelors in Computer Engineering from CHARUSAT Univ
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flamingloon&label=Profile%20views&color=0e75b6&style=flat" alt="flamingloon" /> </p>
 <p>
-<a align= "center" href="https://github.com/falmingloon">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=flamingloon&theme=radical">
+<a align= "center" href="https://github.com/Flamingloon">
+<img alt= "stats card" height="200px" width="400" src="https://streak-stats.demolab.com/?user=flamingloon&theme=radical">
 <img style="margin-top:40px" align="right" height="350" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /> </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=flamingloon&count_private=true&theme=radical&show_icons=true" />
@@ -40,13 +40,17 @@ A 3rd-year student pursuing Bachelors in Computer Engineering from CHARUSAT Univ
 
 <br>
 <p align="center">
-  <img alt="language-card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flamingloon&layout=compact)](https://github.com/anuraghazra/github-readme-stats">
+  <img alt="language-card" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flamingloon&layout=compact&theme=radical" />
 </p>
 
 <hr>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Flamingloon/flamingloon/f0cfbee1caae3850079cf255e510537fb81f0a98/github-contribution-grid-snake.svg?token=ATKPANFAC55DGPP2EWVRPALCA55KQ" alt="snake"></center>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flamingloon/flamingloon/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Flamingloon/flamingloon/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Flamingloon/flamingloon/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 <h3>Daylily Random comic strip!</h3>
