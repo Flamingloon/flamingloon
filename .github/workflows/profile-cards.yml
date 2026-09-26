@@ -30,6 +30,9 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      # The action commits the cards into this repo, so it needs a checkout.
+      - uses: actions/checkout@v4
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
