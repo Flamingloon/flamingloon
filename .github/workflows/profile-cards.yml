@@ -1,0 +1,39 @@
+# Generates GitHub stats cards into profile-summary-card-output/ so the README
+# doesn't depend on the rate-limited public github-readme-stats server.
+
+name: Generate Profile Cards
+
+on:
+  schedule:
+    # once a day
+    - cron: "0 0 * * *"
+
+  # Allows running the workflow manually from the Actions tab.
+  workflow_dispatch:
+
+  push:
+    branches:
+      - master
+    paths:
+      - .github/workflows/profile-cards.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: master
+          UTC_OFFSET: 5.5
